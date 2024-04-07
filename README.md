@@ -27,6 +27,15 @@ For further research and use of the above code, cite below
   doi={10.1109/SmartGridComm57358.2023.10333889}}
 ```
 
+## Requirments
+```
+Python 3.x
+TensorFlow Federated (tensorflow-federated)
+TensorFlow (tensorflow)
+Pandas (pandas)
+NumPy (numpy)
+Google Colab (optional, for executing the code in a cloud environment)
+```
 
 ## Code
 
